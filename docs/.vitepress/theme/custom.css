@@ -1,0 +1,8 @@
+/* .vitepress/theme/custom.css */
+@import "tailwindcss" source(none);
+@source "../../../";
+
+:root {
+  --vp-c-brand-1: crimson;
+  --vp-c-brand-2: deepskyblue;
+}
